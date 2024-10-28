@@ -1,0 +1,6 @@
+@QuickBookApi_HostAddress = http://localhost:5009
+
+GET {{QuickBookApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

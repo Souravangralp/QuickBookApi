@@ -1,0 +1,10 @@
+﻿global using QuickBookApi.Repository.Interfaces;
+global using QuickBookApi.Repository.Services;
+global using QuickBookApi.Models.Responses;
+global using Newtonsoft.Json;
+global using Microsoft.AspNetCore.Mvc;
+global using System.Net.Http.Headers;
+global using System.Text;
+global using System.Xml.Serialization;
+global using QuickBookApi.Utility.Common;
+global using QuickBookApi.Utility.Constants;
